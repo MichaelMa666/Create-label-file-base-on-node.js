@@ -5,5 +5,6 @@
 <p>(3):It will use scanning spear to scan the label. </p>
 <BR>
 <h2>Page screenshots:</h2>
-<href='https://github.com/MichaelMa666/Create-label-file-base-on-node.js/blob/master/screenshots/create_label_file_page.png'></href>
-
+<picture>
+<source srcset='https://github.com/MichaelMa666/Create-label-file-base-on-node.js/blob/master/screenshots/create_label_file_page.png'/>
+</picture>
