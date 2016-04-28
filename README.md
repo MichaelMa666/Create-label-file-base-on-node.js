@@ -6,3 +6,4 @@
 <BR>
 <h2>Page screenshots:</h2>
 ![Alt text](/Create-label-file-base-on-node.js/blob/master/screenshots/create_label_file_page.png "Optional Title")
+![ScreenShot](https://github.com/MichaelMa666/Create-label-file-base-on-node.js/blob/master/screenshots/create_label_file_page.png)
